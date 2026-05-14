@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import re
 
 file = open(r"C:\Users\STS LTD\messages.xml", "r", encoding="utf-8")
